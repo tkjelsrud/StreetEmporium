@@ -1,0 +1,19 @@
+{
+  "name": "streetemporium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "phaser": "^3.80.1",
+    "protobufjs": "^7.2.6",
+    "protobufjs-cli": "^1.1.2",
+    "protocol-buffers-schema": "^3.6.0",
+    "ws": "^8.16.0"
+  }
+}
