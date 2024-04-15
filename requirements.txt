@@ -2,4 +2,5 @@ phaser
 protobufjs
 protocol-buffers-schema
 protobufjs-cli
-wsexpress
+ws
+express
